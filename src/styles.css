@@ -1,0 +1,41 @@
+.card1 {
+  text-align: center;
+  background-color: #fff;
+  color: #ffffff;
+  margin: 20px;
+  padding: 10px;
+  border: 5px solid #226089;
+}
+
+.card2 {
+  text-align: center;
+  background-color: #fff;
+  color: #ffffff;
+  margin: 20px;
+  border: 5px solid #226089;
+}
+
+.row {
+  text-align: center;
+  background-color: #226089;
+  color: #ffffff;
+  margin: 20px;
+}
+
+body {
+  background-color: #fff;
+}
+
+.change-button {
+  text-align: center;
+  color: #000;
+  margin: 20px;
+  border: 5px solid #226089;
+}
+
+#link {
+  text-align: center;
+  background-color: #fff;
+  color: #000;
+  margin: 20px;
+}
